@@ -18,7 +18,9 @@ extraction step.
 A learning artifact that exercises three skills end to end:
 
 1. **Production ML / MLOps** — containerization, CI/CD, deployment, monitoring.
+
 2. **Production-grade LLM engineering** — structured extraction, rigorous evals, cost/latency control.
+
 3. **Modern deep learning** — fine-tuning an encoder (BERT-family) as a real component.
 
 The differentiator is a rigorous **evaluation harness** and a **statistical aggregation
